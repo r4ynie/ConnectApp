@@ -2,9 +2,17 @@
     <string name="app_name">ConnectApp</string>
     <string name="app_connect_title">App Connect</string>
     <string name="welcome_back">Welcome back!</string>
-    <string name="hint_email_username">Email or Username</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_username">Username</string>
     <string name="hint_password">Password</string>
-    <string name="btn_log_in">Log In</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_Register">Register</string>
     <string name="forgot_password">Forgot Password?</string>
     <string name="content_desc_app_logo">App Logo</string>
+    <string name="Or_Register_with">-------- Or Register With --------</string>
+    <string name="Or_Login_with">-------- Or Log In With --------</string>
+    <string name="dont_have_account">Don/t have an account yet?</string>
+    <string name="sign_up_text">Sign up</string>
+    <string name="SignUp">Already have an account? sign up</string>
 </resources>
