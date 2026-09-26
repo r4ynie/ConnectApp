@@ -193,8 +193,8 @@
         <ImageView
             android:id="@+id/btnFacebook"
             style="@style/Btn_round_edit"
-            android:layout_width="70dp"
-            android:layout_height="70dp"
+            android:layout_width="71dp"
+            android:layout_height="71dp"
             android:layout_marginTop="15dp"
             android:src="@drawable/facebook"
             android:background="@drawable/btn_round"
@@ -206,8 +206,8 @@
         <ImageView
             android:id="@+id/btnGoogle"
             style="@style/Btn_round_edit"
-            android:layout_width="70dp"
-            android:layout_height="70dp"
+            android:layout_width="71dp"
+            android:layout_height="71dp"
             android:layout_marginTop="15dp"
             android:src="@drawable/google"
             android:background="@drawable/btn_round"
@@ -218,8 +218,8 @@
         <ImageView
             android:id="@+id/btnGitHub"
             style="@style/Btn_round_edit"
-            android:layout_width="70dp"
-            android:layout_height="70dp"
+            android:layout_width="71dp"
+            android:layout_height="71dp"
             android:layout_marginTop="15dp"
             android:src="@drawable/github"
             android:background="@drawable/btn_round"
